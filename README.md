@@ -4,7 +4,7 @@ In this project, a music player application was built using HTML, SCSS and Javas
 
 # Used API
 
-[](https://rapidapi.com)
+https://rapidapi.com
 
 # Preview
 
